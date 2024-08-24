@@ -1,5 +1,6 @@
 # test
 test
+$$
 \chapter{Introduction}
 
 Competitive programming combines two topics:
@@ -990,3 +991,4 @@ Some popular books are:
 \item S. S. Skiena:
 \emph{The Algorithm Design Manual} \cite{ski08}
 \end{itemize}
+$$
